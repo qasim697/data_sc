@@ -24,7 +24,7 @@ GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
 
 # Paddle properties
-PADDLE_WIDTH = 100
+PADDLE_WIDTH = 200
 PADDLE_HEIGHT = 15
 PADDLE_SPEED = 10
 
